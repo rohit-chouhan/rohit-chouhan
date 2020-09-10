@@ -1,5 +1,5 @@
 ### Hi there 👋
-![gif](https://i.gifer.com/origin/e6/e608359693b84366637862ecadb53ad9_w200.gif){:height="40px" width="40px"}
+![gif](https://i.gifer.com/origin/e6/e608359693b84366637862ecadb53ad9_w200.gif)
 <!--
 **rohit-chouhan/rohit-chouhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
