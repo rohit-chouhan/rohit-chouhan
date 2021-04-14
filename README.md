@@ -4,7 +4,6 @@
 -->
 I love building amazing software which make an impact. 4 plus year experience on Web Development.
 
-- 🔭 Co-founder [Codesler](https://g.co/kgs/73wpwq)
 - 🌱 Skills: UI Design, Web Development, Digital Marketing
 - 💬 Ask me anything: [Facebook](https://facebook.com/itsrohitofficialprofile)
 - 📫 How to reach me: me@rohitchouhan.com
