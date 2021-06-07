@@ -5,6 +5,5 @@
 I love building amazing software which make an impact. 4 plus year experience on Web Development.
 
 - 🌱 Skills: UI Design, Web Development, Digital Marketing
-- 💬 Ask me anything: [Facebook](https://facebook.com/itsrohitofficialprofile)
+- 💬 Ask me anything: [Facebook](https://www.facebook.com/people/Rohit-Rajput-Chouhan/100060079099101/)
 - 📫 How to reach me: me@rohitchouhan.com
-- ⚡ Fun fact: T'm an Author Also, Reach me on Google [Rohit Chouhan - Google](https://g.co/kgs/tJYb4u)
