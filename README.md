@@ -1,3 +1,8 @@
+<!--
+https://www.netlify.com/pricing/
+https://vercel.com/pricing
+https://herokuapp.com/
+->
 ### Hi there 👋
 <!--
 **rohit-chouhan/rohit-chouhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
