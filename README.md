@@ -33,11 +33,15 @@ Programming Language:
   <code><img height="40" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img height="40" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
 
-Framworks:
+Frameworks:
   <p><code><img height="40" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
   <code><img height="40" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code>
   <code><img height="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-   <code><img height="40" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code></p>
+   <code><img height="40" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
+     <code><img height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+     <code><img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+</p>
+   
    
 Database Technology: 
   <p><code><img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
@@ -47,6 +51,7 @@ Others Technology:
 <p>
   <code><img height="40" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <code><img height="40" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-    <code><img height="40" src="https://www.vectorlogo.zone/logos/sap/sap-ar21.svg"></code></p>
-    <code><img height="40" src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg"></code></p>
-</p>
+    <code><img height="40" src="https://www.vectorlogo.zone/logos/sap/sap-ar21.svg"></code>
+    <code><img height="40" src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg"></code>
+        <code><img height="40" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
+    </p>
