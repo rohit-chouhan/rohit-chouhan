@@ -39,10 +39,14 @@ Programming Language:
   <p><code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img height="40" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img height="40" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
+  </p>
+  
    
 Database Technology: 
   <p><code><img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-    <code><img height="40" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></code></p>
+    <code><img height="40" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></code>
+    <code><img height="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+</p>
 
 Others Technology:
 <p>
@@ -52,4 +56,6 @@ Others Technology:
     <code><img height="40" src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg"></code>
         <code><img height="40" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
    <code><img height="40" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
+   <code><img height="40" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+     <code><img height="40" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
     </p>
