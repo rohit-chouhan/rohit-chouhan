@@ -1,8 +1,4 @@
-<!--
-https://www.netlify.com/pricing/
-https://vercel.com/pricing
-https://herokuapp.com/
-->
+
 ### Hi there 👋
 
 Hy, I am Rohit Chouhan
