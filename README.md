@@ -39,7 +39,7 @@ Web Technology:
 </p>
   
   
-App Technology: 
+Mobile App Technology: 
  <p><code><img height="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code></p>
   
 Programming Language:
@@ -53,6 +53,7 @@ Database Technology:
   <p><code><img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
     <code><img height="40" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></code>
     <code><img height="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+   <code><img height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
 </p>
 
 Others Technology:
