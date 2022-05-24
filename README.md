@@ -1,18 +1,24 @@
 
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Rohit Chouhan</h1>
+<h3 align="center">Software Engineer at @Deloitte</h3>
 
-Hy, I am Rohit Chouhan
+- 🔭 I’m currently working at [Deloitte Consulting](https://deloitte.com)
 
-I am working in world's top four firm organization [Deloitte](https://www.deloitte.com) as Software Engineer.
+- 💬 Ask me about **Web/Software Development, Internet Technologies**
 
-- 💬 Ask me anything: [Facebook](https://www.facebook.com/people/Rohit-Rajput-Chouhan/100060079099101/)
-- 📫 How to reach me: me@rohitchouhan.com | itsrohitofficial@gmail.com
+- 📫 How to reach me **me@rohitchouhan.com**
 
-[![LinkedIn](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohit-chouhan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsrohitchouhan)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itsrohitchouhan/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/Rohit-Rajput-Chouhan/100060079099101/)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsrohitofficial@gmail.com)
+- 📄 Know about my experiences [https://linkedin.com/in/itsrohitchouhan](https://linkedin.com/in/itsrohitchouhan)
+
+- ⚡ Fun fact **I love ghost**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/itsrohitchouhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsrohitchouhan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/itsrohitchouhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsrohitchouhan" height="30" width="40" /></a>
+<a href="https://facebook.com/profile.php?id=100060079099101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100060079099101" height="30" width="40" /></a>
+<a href="https://instagram.com/itsrohitchouhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsrohitchouhan" height="30" width="40" /></a>
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rohit-chouhan)]()
 
