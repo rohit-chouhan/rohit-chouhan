@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [https://linkedin.com/in/itsrohitchouhan](https://linkedin.com/in/itsrohitchouhan)
 
-- ⚡ Fun fact **I love ghost**
+- ⚡ Fun fact **I love ghost hunting**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
